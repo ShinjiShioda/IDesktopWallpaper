@@ -1,5 +1,5 @@
-# IDesktopWallpaper
-窓辺の小石「Windowsの壁」サンプル
+# IDesktopWallpaper　窓辺の小石「Windowsの壁」サンプル
+
 画像ファイルは、
 
 `C:\temp\IdesktopWallpaper
